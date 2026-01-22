@@ -1,6 +1,5 @@
 # SemesterProject
-Database Management System Project
+Data Base/DBMS Project
 
-Ideas:
-
-* Healthcare
+Possible Idea:
+* Healthcare/Medical Records System
